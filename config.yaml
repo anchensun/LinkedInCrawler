@@ -1,0 +1,6 @@
+username:
+password: 
+selenium: ./chromedriver
+job_details:
+    title: work 
+    location: Miami
